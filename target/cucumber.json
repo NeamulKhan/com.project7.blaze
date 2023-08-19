@@ -1,0 +1,46 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Verify user can signup with credentials",
+        "description": "",
+        "id": "this-feature-is-for-signup-functionality;verify-user-can-signup-with-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7134334216,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Launch \"\u003cURL\u003e\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u003cURL\u003e",
+                  "offset": 8
+                }
+              ],
+              "location": "Signup_Project7.launch(String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Signup7"
+          }
+        ]
+      }
+    ],
+    "name": "This feature is for signup functionality",
+    "description": "",
+    "id": "this-feature-is-for-signup-functionality",
+    "keyword": "Feature",
+    "uri": "Signup_Project7.feature"
+  }
+]
